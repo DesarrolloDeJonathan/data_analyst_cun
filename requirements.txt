@@ -1,0 +1,23 @@
+# Dependencias de Python para el Proyecto de Analítica de Siniestralidad Vial
+
+# Manejo de datos
+pandas
+openpyxl
+
+# Machine Learning y Modelado
+scikit-learn
+
+# Manejo de Desbalance de Clases
+imbalanced-learn
+
+# Visualización (ya incluidas en el entorno base, pero listadas por completitud)
+matplotlib
+seaborn
+
+# Core Dash components
+dash
+dash-core-components
+dash-html-components
+
+# Plotly para gráficos interactivos
+plotly
